@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: demo
-        image: 76591745/angularapp:v1
+        image: marcosalarcon/app-angular:v1
         ports:
         - containerPort: 80
